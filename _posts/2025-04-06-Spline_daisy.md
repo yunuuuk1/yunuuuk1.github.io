@@ -4,4 +4,5 @@ title:  "Spline_Daisy_Test"
 ---
 
 
-<iframe src='https://my.spline.design/starterscenecopy-13eb86591b1181ec3736ce56942116f5/' frameborder='0' width='100%' height='100%'></iframe>
+<script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.82/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/aMfamvCYhAoGjFlS/scene.splinecode"></spline-viewer>
